@@ -1,0 +1,21 @@
+====================================================
+     OFFLINE AGENT SKILL-MATCHING MATRIX REPORT     
+====================================================
+
+📄 CANDIDATE FILE: vishal_cv-1.pdf
+📊 MATCH COVERAGE SCORE: 0.0%
+✅ MATCHED SKILLS (0): None
+❌ NOT MATCHED SKILLS (10): Java, Android, proficient, Kotlin, an, MVVM, Jetpack, Studio, Compose, Git
+----------------------------------------------------
+
+📄 CANDIDATE FILE: Python_ML_NLP_Streamlit_Resume (2).pdf
+📊 MATCH COVERAGE SCORE: 20.0%
+✅ MATCHED SKILLS (2): an, Git
+❌ NOT MATCHED SKILLS (8): Java, Android, proficient, Kotlin, MVVM, Jetpack, Studio, Compose
+----------------------------------------------------
+
+📄 CANDIDATE FILE: Amit_Maurya_Resume.pdf
+📊 MATCH COVERAGE SCORE: 20.0%
+✅ MATCHED SKILLS (2): an, Git
+❌ NOT MATCHED SKILLS (8): Java, Android, proficient, Kotlin, MVVM, Jetpack, Studio, Compose
+----------------------------------------------------

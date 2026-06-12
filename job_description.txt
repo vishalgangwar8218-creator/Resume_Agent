@@ -1,0 +1,1 @@
+Android Developer Required Skills: Kotlin, Android Studio, MVVM, Java, Git, Jetpack Compose
