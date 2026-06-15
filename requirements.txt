@@ -7,7 +7,7 @@ annotated-types==0.7.0
 anyio==4.13.0
 attrs==26.1.0
 audioop-lts==0.2.2
-pywin32==312
+pywin32; sys_platform == 'win32'
 audioread==3.1.0
 av==17.1.0
 beautifulsoup4==4.14.3
